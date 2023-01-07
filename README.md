@@ -45,4 +45,4 @@ Ou acessar este link:
 
 ## Licença
 
-Este projeto está sob a licença do MIT- veja o arquivo [LICENSE]() para detalhes.
+Este projeto está sob a licença do MIT- veja o arquivo [LICENSE](https://github.com/armanoalves/html-css-II/blob/main/LICENSE) para detalhes.
