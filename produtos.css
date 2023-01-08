@@ -28,6 +28,15 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color: red;
+    text-decoration: underline;
+} 
+
+.pf, .ro, .al {
+    border-radius: 10px;
+}
+
 .produtos {
     width: 940px;
     margin: 0 auto;
