@@ -2,32 +2,41 @@
 
 ## Sobre o Projeto
 
-Projeto realizado a partir de um curso da Alura: [Curso de HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos)
+Projeto realizado a partir de um curso da Alura: [Curso de HTML5 e CSS3 parte 2: posicionamento, listas e navegação](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao)
 , ministrado pelo instrutor: [Pedro Marins](https://cursos.alura.com.br/user/opedromarins), que visa passar o básico de configuração de uma página Web. 
 
-![Imgur](https://i.imgur.com/JvjdIG0.png)
+![Imgur](https://i.imgur.com/gkfXW8Z.png)
 ## Metodologia de Desenvolvimento
 
-O curso conta com 6 modulos, cada modulo contém certo números de aulas e atividades que foram propostas pelo instrutor. Com isso, foi estabelecido que, para cada modulo do curso foi criada uma branch para conter todas as atualizações do projeto, e ao fim do modulo seria feito o merge desta branch para a branch principal.
+O curso conta com 7 modulos, cada modulo contém certo números de aulas e atividades que foram propostas pelo instrutor. Com isso, foi estabelecido que, para cada modulo do curso foi criada uma branch para conter todas as atualizações do projeto, e ao fim do modulo seria feito o merge desta branch para a branch principal.
 
 ## Conhecimento Durante o Curso
 
-* Utilizar tags no HTML;
-Construir uma página com semântica através do HTML;
+* A criar links para outras páginas, sejam elas do nosso projeto ou páginas externas;
 
-* Compreensão dos diferentes tipos de CSS: "inline", interno e externo;
+* Como deixar o texto em negrito com CSS;
 
-* Como trabalhar com cores, alinhamentos e fontes no CSS;
+* Como remover a decoração do texto;
 
-* Importação de imagens no HTML e manipulação das mesmas em CSS;
+* Como remover os estilos que o navegador cria automaticamente;
 
-* Configuração de elementos com relação a espaçamentos e tamanho;
+* Como funciona os posicionamentos static, relative e absolute dos elementos;
 
-* Diferença entre referenciar elementos por meio de tags, ids e classes;
+* Como posicionar o cabeçalho da nossa página;
 
-* Uso de listas ordenadas e não-ordenadas;
+* A criar listas complexas, com títulos, imagens e parágrafos;
 
-* Como posicionar elementos na tela com a propriedade display.
+* A utilizar o inline-block;
+
+* Através do CSS, aplicar bordas nos elementos;
+
+* Algumas pseudo-classes CSS:
+
+    *  hover, quando o usuário passa o cursor sobre o elemento;
+
+    * active, quando um elemento está sendo ativado pelo usuário;
+
+* A tag footer, para o rodapé da nossa página.
 ## Ferramentas Utilizadas
 
 Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo elas:
@@ -40,9 +49,6 @@ Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo
 Você pode fazer o download do projeto clicando na opção Code e em seguida selecionando Download Zip.
 
 Ou acessar este link: 
-
-
-
 ## Licença
 
 Este projeto está sob a licença do MIT- veja o arquivo [LICENSE](https://github.com/armanoalves/html-css-II/blob/main/LICENSE) para detalhes.
